@@ -11,6 +11,7 @@
 - MySQL (複雑なリレーションを持つDB設計)
 - Ajax / Fetch API (非同期通信による「いいね」機能)
 - HTML/CSS (レスポンシブ対応)
+<img width="694" height="1833" alt="SNSresponsive" src="https://github.com/user-attachments/assets/b3c8ad31-9e88-40f3-92e3-06827f504b99" />
 
   
 
