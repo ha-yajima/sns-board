@@ -5,8 +5,9 @@
 職業訓練の課題として3名チームで制作。「初学者だからこそ、<br>
 Twitterのような普遍的な機能を持つものを作り、基礎を固める」<br>
 という方針のもと開発しました。<br>
+<hr>
+<img width="1483" height="834" alt="SNSlogin" src="https://github.com/user-attachments/assets/e4c6f106-1aee-4100-8ef7-f6798b045789" />
 
-<img height="792" alt="SNSresponsive" src="https://github.com/user-attachments/assets/b3c8ad31-9e88-40f3-92e3-06827f504b99" />
 
 ## 担当範囲（自分が主に実装した部分）
 - ログイン・退会機能
