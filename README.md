@@ -5,7 +5,7 @@
 職業訓練の課題として3名チームで制作。「初学者だからこそ、<br>
 Twitterのような普遍的な機能を持つものを作り、基礎を固める」<br>
 という方針のもと開発しました。<br>
-<img width="80%"  alt="SNSlogin" src="https://github.com/user-attachments/assets/e4c6f106-1aee-4100-8ef7-f6798b045789" />
+<img width="100%"  alt="SNSlogin" src="https://github.com/user-attachments/assets/e4c6f106-1aee-4100-8ef7-f6798b045789" />
 <hr>
 
 ## 担当範囲（自分が主に実装した部分）
