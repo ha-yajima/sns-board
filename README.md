@@ -6,7 +6,7 @@
 Twitterのような普遍的な機能を持つものを作り、基礎を固める」<br>
 という方針のもと開発しました。<br>
 
-![ログイン画面](<img height="792" alt="SNSresponsive" src="https://github.com/user-attachments/assets/b3c8ad31-9e88-40f3-92e3-06827f504b99" />)
+<img height="792" alt="SNSresponsive" src="https://github.com/user-attachments/assets/b3c8ad31-9e88-40f3-92e3-06827f504b99" />
 
 ## 担当範囲（自分が主に実装した部分）
 - ログイン・退会機能
